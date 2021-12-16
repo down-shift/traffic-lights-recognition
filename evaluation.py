@@ -6,7 +6,7 @@
 import cv2  # computer vision library
 import helpers  # helper functions
 import random
-import eval
+import main
 
 
 # Image data directories
