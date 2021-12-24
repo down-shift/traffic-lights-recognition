@@ -1,4 +1,4 @@
-# Traffic Light Recognition Project for the Autonomous Transport System Track of NTO 2021
+# Traffic Light Recognition Algorithm
 
 This algorithm could be used to prefict the color of traffic lights.
 It is based on Computer Vision -- no Machine Learning algorithms involved (according to the task).
